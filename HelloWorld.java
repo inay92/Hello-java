@@ -3,9 +3,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, World");
     System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("reddy, vinay");
-  }
+    System.out.println("happy new year");
+     }
 }
