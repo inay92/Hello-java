@@ -4,6 +4,7 @@ public class HelloWorld {
     System.out.println("happy sankaranti");
     System.out.println("happy crishmis");
     System.out.println("happy new year");
+    System.out.println("happy new");
     
   }
 }
