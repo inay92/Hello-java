@@ -34,6 +34,6 @@ jobs:
         run: java --version
       - name: maven version check
         run: mvn -v
-      - name: github version check
-        run: github --version
+      - name: git version check
+        run: git --version
     
